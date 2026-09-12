@@ -17,7 +17,7 @@ About five minutes, once.
 | | Step |
 |---|---|
 | 1 | Install [Node.js LTS](https://nodejs.org) — leave *"Tools for Native Modules"* unchecked |
-| 2 | Download the zip from the [latest release](https://github.com/ashimaryal25-ops/printfarm/releases/latest) and extract it |
+| 2 | Download the zip from the [latest release](https://github.com/ashimaryal25/printfarm/releases/latest) and extract it |
 | 3 | Open a terminal in that folder — Shift + right-click → *Open in Terminal* |
 | 4 | Run `npm start` |
 | 5 | Open **http://127.0.0.1:3000** and click **DISCOVER** |
@@ -28,7 +28,7 @@ the terminal window open; closing it stops PrintFarm.
 Prefer git? Clone it instead of steps 2 and 3, then carry on from step 4:
 
 ```bash
-git clone https://github.com/ashimaryal25-ops/printfarm.git
+git clone https://github.com/ashimaryal25/printfarm.git
 cd printfarm
 ```
 
