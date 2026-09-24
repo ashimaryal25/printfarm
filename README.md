@@ -116,6 +116,8 @@ PrintFarm goes after a protocol rather than a model list: any stock Creality pri
 that exposes the LAN WebSocket on port 9999 plus HTTP upload is a candidate, and
 discovery tries it automatically.
 
+It has been tested with 10 physical 3D printers on the local network, including automatic discovery, live monitoring, remote controls, and job queueing.
+
 | Model | Status |
 |---|---|
 | Ender 3 V3 KE | Verified on physical hardware |
